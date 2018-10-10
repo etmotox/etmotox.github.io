@@ -1,0 +1,11 @@
+.jumbotron {
+    background: rgb(95, 95, 207);
+}
+
+.display-3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row {
+    background-blend-mode: color;
+}
