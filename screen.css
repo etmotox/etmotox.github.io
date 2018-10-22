@@ -1,11 +1,12 @@
 .jumbotron {
-    background: rgb(95, 95, 207);
+    background: rgb(133, 54, 54);
 }
 
 .display-3 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.container
 .row {
-    background-blend-mode: color;
+    background-image: url(https://www.pexels.com/photo/brown-brick-wall-207142/);
 }
