@@ -1,3 +1,7 @@
+body {
+    background-color: darkgray;
+}
+
 .jumbotron {
     background: rgb(133, 54, 54);
 }
@@ -6,7 +10,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.container
-.row {
-    background-image: url(https://www.pexels.com/photo/brown-brick-wall-207142/);
+.col-md-4 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
