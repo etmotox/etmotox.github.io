@@ -1,9 +1,10 @@
 body {
-    background-color: darkgray;
+    background-color: rgba(20, 0, 0, 0.562);
 }
 
 .jumbotron {
-    background: rgb(133, 54, 54);
+    background: rgba(0, 0, 0, 0.884);
+    color: rgb(77, 77, 77);
 }
 
 .display-3 {
