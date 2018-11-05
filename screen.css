@@ -1,16 +1,25 @@
 body {
-    background-color: rgba(20, 0, 0, 0.562);
+    background-color: rgba(163, 162, 162, 0.562);
 }
-
 .jumbotron {
-    background-image: url(https://www.google.com/search?q=css+background+images&rlz=1C1CHBF_enUS816US816&tbm=isch&source=iu&ictx=1&fir=LS_h9x9_Sr6YGM%253A%252Cp2-9bMb9KOD1HM%252C_&usg=AI4_-kQuqXwJ8oSO4Gk9kEOg6KOUCY45Gw&sa=X&ved=2ahUKEwid8J_B2b3eAhVjNn0KHRApBKQQ9QEwBXoECAQQBA#imgrc=LS_h9x9_Sr6YGM:);
-    color: rgb(77, 77, 77);
+    background-image: url(http://static1.grsites.com/archive/textures/beige/beige001.jpg);
+    color: rgb(22, 22, 22);
 }
-
+.img1 {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    margin: 1% 10% 1% 0%;
+}
+.img2 {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    margin: 1% 0% 1% 10%;
+}
 .display-3 {
     font-family: 'Times New Roman', Times, serif;
 }
-
 .col-md-4 {
     color: black;
     font-family: 'Times New Roman', Times, serif;
