@@ -1,5 +1,8 @@
 body {
     background-color: rgba(163, 162, 162, 0.562);
+    background-image: url(https://i.imgur.com/cLaikrM.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .jumbotron {
     background-image: url(http://static1.grsites.com/archive/textures/beige/beige001.jpg);
@@ -24,6 +27,6 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 .col-md-4 {
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
 }
