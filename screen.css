@@ -1,11 +1,12 @@
 body {
     background-color: rgba(163, 162, 162, 0.562);
-    background-image: url(https://i.imgur.com/cLaikrM.jpg);
-    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/jYwT08D.png);
+    background-repeat: repeat;
     background-position: center;
 }
 .jumbotron {
     background-image: url(http://static1.grsites.com/archive/textures/beige/beige001.jpg);
+    background-attachment: fixed;
     color: rgb(22, 22, 22);
 }
 h1 {
@@ -27,6 +28,6 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 .col-md-4 {
-    color: rgb(0, 0, 0);
+    color: rgb(240, 240, 240);
     font-family: 'Times New Roman', Times, serif;
 }
