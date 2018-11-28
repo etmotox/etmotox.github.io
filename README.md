@@ -12,11 +12,10 @@ A Portfolio to get a career as a software developer
 * Python
 * Node.js
 * JSON
-## Some libraies
+## Some libraries
 * express
 * jQuery
-* npm
 * Bootstrap
 ## Projects
-* This website
+* This portfolio
 * Zagster bike share data visualization
