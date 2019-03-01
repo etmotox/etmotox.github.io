@@ -12,6 +12,7 @@ A Portfolio to get a career as a software developer
 * Python
 * Node.js
 * JSON
+* JAVA
 ## Some libraries
 * express
 * jQuery
