@@ -35,3 +35,9 @@ h1 {
     height: auto;
     justify-content: space-between;
 }
+
+@media (max-width: 500px){
+    display-3{
+        display: table-column;
+    }
+}
