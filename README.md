@@ -13,7 +13,7 @@ A Portfolio to get a career as a software developer
 * Node.js
 * JSON
 * JAVA
-## Some libraries
+## libraries/frameworks
 * express
 * jQuery
 * Bootstrap
