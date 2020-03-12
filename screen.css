@@ -30,4 +30,8 @@ h1 {
 .col-md-4 {
     color: rgb(240, 240, 240);
     font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
 }
