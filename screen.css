@@ -27,17 +27,18 @@ h1 {
 .display-3 {
     font-family: 'Times New Roman', Times, serif;
 }
-.col-md-4 {
+.projects {
     color: rgb(240, 240, 240);
     font-family: 'Times New Roman', Times, serif;
-    display: inline;
-    width: 100%;
-    height: auto;
-    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
 }
 
 @media (max-width: 500px){
-    display-3{
-        display: table-column;
+    .project{
+        display: flex;
+        flex-wrap: wrap;
     }
 }
